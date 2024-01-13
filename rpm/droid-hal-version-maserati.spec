@@ -4,7 +4,7 @@
 %define rpm_vendor motorola
 # Manufacturer and device name to be shown in UI
 %define vendor_pretty Motorola
-%define device_pretty Droid4
+%define device_pretty Droid 4
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
 %define have_vibrator 1
 %define have_led 1
